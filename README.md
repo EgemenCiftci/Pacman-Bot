@@ -9,7 +9,7 @@ Waypoints on the maze are junctions and the points where the player changes dire
 3. Move to the highest score waypoint
 
 ## Waypoint Score Calculation:
-Score = ActiveDistance*2 + PassiveDistance*1 + Pellet*1000
+Score = ActiveDistance x 2 + PassiveDistance x 1 + Pellet x 1000
 
 We can exactly predict the next location of Hunter and Ambush. Their distances are ActiveDistance.
 
